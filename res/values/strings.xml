@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_class_page">ClassPage</string>
+    <string-array name="Classes">
+        <item >Intro to Programming</item>
+        <item >Object Oriented Programming</item>
+        <item >C++</item>
+        <item >Authoring Interactive Media</item>
+    </string-array>
+
+</resources>
